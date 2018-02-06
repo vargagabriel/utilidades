@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [Capítulo 1](cap1/README.md)
-    * [Item 1](cap1/item1/README.md)
+* [Sobre](README.md)
+* [Guia de instalação](cap1/README.md)
+    * [Fedora 27 Workstation](cap1/item1/README.md)
     * [Item 2](cap1/item2/README.md)
     * [Item 3](cap1/item3/README.md)
 * [Capítulo 2](cap2/README.md)
