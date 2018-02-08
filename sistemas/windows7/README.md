@@ -24,8 +24,6 @@ Os programas essenciais necessários para a utilização básica são:
 ```
 Link de Download: http://www.kabum.com.br/cgi-local/site/download/download.cgi?p=80722&id=Kb4oPyvKn6GW2KbeXCmsROKJQ21494276601KbHhCurR6YH7oKbRXGnwCFxCO61413148993KbIgLayJE/aAk
 
-Serial: J1MD3-7RK5E-C2GGE-Y2AME - Válido até dia 13/05/2018
-
 ```
 
 - 7-Zip;
@@ -45,7 +43,7 @@ Os programas específicos que utilizo no Windows são:
 ```
 Link de Download: https://office.live.com/start/MyAccount.aspx
 
-Conta: andradevarga.g@gmail.com - Assinatura Office 365 Home válida até 17/03/2018. Incluso a suíte Office paraaté 5 PC's, OneDrive com 1TB de armazenamento e o Skype com 60 minutos de uso mensal para até 5 contas.
+Assinatura Office 365 Home válida até 17/03/2018. Incluso a suíte Office paraaté 5 PC's, OneDrive com 1TB de armazenamento e o Skype com 60 minutos de uso mensal para até 5 contas.
 
 ```
 
@@ -53,8 +51,6 @@ Conta: andradevarga.g@gmail.com - Assinatura Office 365 Home válida até 17/03/
 
 ```
 Link de Download: http://www.tableau.com/products/desktop/download-academic
-
-Serial: TDDG-7EA0-6C40-B5EA-D363 - Válido até dia 17/05/2018
 
 ```
 
@@ -66,8 +62,6 @@ Serial: TDDG-7EA0-6C40-B5EA-D363 - Válido até dia 17/05/2018
 Local do arquivo de instalação: D:\Programas\IBM SPSS Statistics 23\Setup
 
 Ativação: insira o serial no License Authorization Wizard.
-
-Serial: VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
 
 ```
 - Adobe Photoshop CS6 Extended;

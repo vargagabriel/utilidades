@@ -8,6 +8,6 @@
 * [Github](github/README.md)
     * [Git e Github](github/git_github/README.md)
     * [GitBook](github/gitbook/README.md)
-    * [Jekyll](github/git_github/README.md)
+    * [Jekyll](github/jekyll/README.md)
 
 
